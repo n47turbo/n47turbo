@@ -1,8 +1,6 @@
 # Welcome! 👋
 
 <!-- Profile Image -->
-<!-- ![IMG_6655](https://github.com/fpalslxent/fpalslxent/assets/32701658/9460e0cd-b0c5-4d42-9795-ac2afcec166e) -->
-![KakaoTalk_20240224_154858225_01](https://github.com/n47turbo/n47turbo/assets/32701658/c06c0401-822e-427a-a409-b1d92d80c8fa)
 
 ## I'm?
 - **PHP Backend Developer**
